@@ -1,5 +1,5 @@
 package com.example.learncamera2opengl;
-
+#test
 import static android.opengl.GLSurfaceView.RENDERMODE_WHEN_DIRTY;
 
 //import static com.example.learncamera2opengl.render.ByteFlowRender.IMAGE_FORMAT_I420;
